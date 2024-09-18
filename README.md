@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on study
 - 🤔 I’m looking for help with JavaScript 
 - 💬 Ask me about Alura
-- 📫 How to reach me: Alura
+- 📫 How to reach me: 
+@00001124902934SP@aluno.educacao.sp.gov.br 
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: I love french fries
 -->
